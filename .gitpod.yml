@@ -1,0 +1,5 @@
+image: gitpod/workspace-full
+
+tasks:
+  - init: cmake
+    command: make -j 2
